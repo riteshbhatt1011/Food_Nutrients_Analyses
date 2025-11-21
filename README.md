@@ -165,3 +165,4 @@ Kaggle for the nutrient dataset
 Microsoft Power BI community
 
 Dataset contributors
+dash_image --(https://github.com/riteshbhatt1011/Food_Nutrients_Analyses/blob/main/Dashboard_image.png)
